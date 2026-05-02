@@ -31,7 +31,8 @@ pip install -r requirement.txt
 
 (3)Download the following pre-trained models from Hugging Face and place them in the `models/` folder:
 * **BERT-Chinese**: [bert-base-chinese](https://huggingface.co/bert-base-chinese)
-* **RoBERTa-Base**: [FacebookAI/roberta-base](https://huggingface.co/FacebookAI/roberta-base)
+* **RoBERTa-Base**: [roberta-base](https://huggingface.co/FacebookAI/roberta-base)
+
 (4)Place your custom datasets in: `datasets/TextClassification/`
 
 #### ▶️Run

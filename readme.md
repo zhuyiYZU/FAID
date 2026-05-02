@@ -1,4 +1,4 @@
-# Sledgehammer or Scalpel? A Fine-grained Adaptive Framework for Implicit Hate Speech
+# A Fine-grained Adaptive Framework for Implicit Hate Speech
 
 This repository contains a Fine-grained Adaptive Framework for Implicit Hate Speech. It integrates Prompt Tuning (PT), Iterative Optimization (itera), and Agentic Context Engineering (ACE).
 
